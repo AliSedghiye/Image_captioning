@@ -1,5 +1,11 @@
 # Image Captioning with Custom Encoder–Decoder and BLIP + LoRA
 
+`huggingface space for live testing`: [space](https://huggingface.co/spaces/Gilfoyle-alised/Image_Captioning)
+`model_5K` : [5K](https://huggingface.co/Gilfoyle-alised/image_captioning_5K)
+`model_100K` : [100K](https://huggingface.co/Gilfoyle-alised/image-captioning-100k)
+`model_BLIP+LORA` : [BLIP+LORA](https://huggingface.co/Gilfoyle-alised/BLIP-finetune-on-COCO)
+
+
 A deep learning project for automatic image caption generation using two complementary approaches:
 
 1. **Custom image captioning model from scratch**
